@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ThaboDoc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Thabo Doc
+- 👀 I’m interested in coding and Networking
+- 🌱 I’m currently learning Informatiion technology, specializing in communications Networks 
+- 💞️ I’m looking to collaborate with every team as i can in the world of IT.
+ 
+
 
 <!---
 ThaboDoc/ThaboDoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
